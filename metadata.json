@@ -1,0 +1,7 @@
+{
+  "name": "HealPath AI",
+  "description": "A supportive, educational personal health assistant that helps users understand symptoms and medical documents using Google Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
